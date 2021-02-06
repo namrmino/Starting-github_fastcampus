@@ -1,3 +1,3 @@
 # Github + Starting
 
-github 연습 중 _ 다시 복습!
+깃헙 연습 _ 복습중
