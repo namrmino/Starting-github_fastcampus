@@ -1,3 +1,3 @@
 # Github + Starting
 
-복싱 사이트
+깃헙 연습 사이트
